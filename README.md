@@ -138,7 +138,3 @@ Real: Poor, Previsto: Poor
 * O modelo `Random Forest` geralmente apresenta melhor desempenho, mas o KNN também é avaliado para comparação.
 
 ```
-
-
-Quer que eu faça isso também?
-```
